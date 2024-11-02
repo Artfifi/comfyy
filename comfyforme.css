@@ -1,4 +1,4 @@
-@import url("https://raw.githubusercontent.com/Artfifi/comfyy/refs/heads/main/comfyforme.css");
+@import url("https://raw.githubusercontent.com/Dev-Supremaker/Discord-ComfyFix/main/comfy.css");
 
 /* ═══════『 ⚠️・Important tips 』═══════
 *
@@ -13,7 +13,7 @@
 @import url("https://catppuccin.github.io/discord/dist/catppuccin-frappe.theme.css");
 
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
-/*@import url("https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css");
+@import url("https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css");
 
 /* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you don't want this spotify bar */
 @import url("https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css");
@@ -93,10 +93,10 @@
   /* ═══════『 🟢 Status 』═══════ */
 
   /* Online - Default value : #43B581 */
-  --online: #43b581;
+  --online: #09ff00;
 
   /* Idle - Default value : #FAA61A */
-  --iddle: #faa61a;
+  --iddle: #ffa200;
 
   /* Do Not Disturb - Default value : #F04747 */
   --dnd: #f04747;
